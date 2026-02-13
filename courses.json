@@ -1,0 +1,2546 @@
+[
+    {
+        "name": "MARKETING \u2013 BEGINNING",
+        "coursecode": "BMD110A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "$40 for DECA membership and area competition",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "5 college credits available. DECA membership required",
+        "description": "Beginning Marketing introduces students to the world of business and marketing and helps them to become college and career ready. Students learn about business fundamentals, selling, target marketing, product and service marketing, pricing, promotion, and branding through a variety of projects, role plays, and simulations.  Students also learn to apply marketing and selling skills when pursuing jobs and careers, giving them an advantage over many of their peers.  Marketing students also participate in DECA, a globally-recognized organization that prepares future leaders in business, marketing, finance, and entrepreneurship. In DECA, students have an opportunity to develop leadership skills and to apply the skills they learn in class at DECA competitions. Marketing and DECA help students develop skills and confidence for success, no matter what their future career goals may be."
+    },
+    {
+        "name": "MARKETING \u2013 ADVANCED",
+        "coursecode": "BMD150A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Completion of Beginning Marketing",
+        "fees": "$40 for DECA membership and area competition",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "5 college credits available. DECA membership required",
+        "description": "Advanced Marketing allows students to expand their knowledge of marketing and business, building on knowledge acquired in introductory courses.  Students will build knowledge in a range of specialized and contemporary marketing topics including market research, channel management, new product development, global business, entrepreneurship and business finance.  Emphasis will be placed on preparation for DECA competition. DECA is a leadership organization for marketing students which prepares emerging leaders and entrepreneurs to be college and career ready.  This course is perfect for the student that is interested in building leadership skills and preparing for a possible career in business, sales or marketing."
+    },
+    {
+        "name": "MARKETING MANAGEMENT",
+        "coursecode": "BMM170A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Completion of Advanced Marketing",
+        "fees": "$40 for DECA membership and area competition",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "DECA membership required",
+        "description": "This is an advanced marketing course for those students who have completed Intro and Advanced Marketing. This is the 3rd year course in the Marketing/DECA pathway and will be heavily focused on preparation for DECA competitions. In addition, management of training, hiring, firing, organization, controlling, motivating, and implementation of decisions will be covered."
+    },
+    {
+        "name": "RETAIL OPERATIONS/ STUDENT STORE",
+        "coursecode": "BRO105A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Advanced Marketing or teacher approval",
+        "fees": "$40 for DECA membership and area competition",
+        "diplomacatagory": "Career & Technical Education",
+        "notes": "DECA membership required",
+        "description": "Retail Operations is a hands-on course that provides students with an opportunity to manage and operate \u201cThe Den,\u201d North Creek\u2019s student store. This course provides students with work experience in a \u201creal\u201d retail situation. Student employees are trained in purchasing and inventory control, record-keeping, stock maintenance, retail sales, advertising and promotion, food preparation, customer service, and the professional conduct vital in the working world. Additionally, students in this course may work together to complete DECA\u2019s School-Based Enterprises (SBE) Chapter Certification program. Students may also pursue individual DECA certifications in SBE operations."
+    },
+    {
+        "name": "FINANCE",
+        "coursecode": "BFI315A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education, 3rd Credit of Math",
+        "notes": "If the course is being taken to meet the 3rd year math option, students must have previously earned two credits in math and form must be filed with the Counseling Office.",
+        "description": "Ready to take control of your financial future? Personal Finance is the ultimate life-skills course that every high school student needs. In this class, you\u2019ll learn how to manage your money like a pro \u2014 from creating a budget that actually works to saving smart, investing wisely, and staying out of debt."
+    },
+    {
+        "name": "CHILD DEVELOPMENT",
+        "coursecode": "HFL200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education, Flexible credits",
+        "notes": "None",
+        "description": "This course focuses on the intellectual, social, emotional and biological development of children and the planning and design of related human services. Includes instruction in parent-child relations, parenting practices, special needs of children, parental and environmental influences on child development, external support services and related public policy issues."
+    },
+    {
+        "name": "ADULTING 101",
+        "coursecode": "HFL120",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "In this activity-oriented comprehensive class you will learn skills needed to be independent such as wise money management, which includes learning to invest and positive use of credit, basic meal planning and preparation, and buying consumer goods. You will look at selecting housing and roommates, tenant and/or landlord responsibilities as well as protecting yourself from consumer \u201crip-offs\u201d. Other topics covered include how to buy and insure a car, and how to fill out tax forms."
+    },
+    {
+        "name": "FASHION DESIGN AND MERCHANDISING 1",
+        "coursecode": "BMF101",
+        "length": "Semester1ONLY",
+        "credit": "0.5",
+        "grade": [
+            "9-12"
+        ],
+        "prerequisite": "None",
+        "fees": "TBD",
+        "diplomacatagory": "Career & Technical Education, Flex",
+        "notes": "None",
+        "description": "Students will learn the skills necessary for a career in the fast-growing industry of Apparel Design.  Students will learn how to design, sew, and re-style clothing; and apply the elements and principles of design in various aspects of the fashion industry.  Students will be able to understand the relationship between history and fashion.  Students will learn general characteristics, production, and maintenance of textiles and textile products throughout the semester. They will study and be able to analyze fashion trends and demonstrate the skills and procedures necessary for sales and marketing in the fashion industry."
+    },
+    {
+        "name": "FASHION DESIGN AND MERCHANDISING 2",
+        "coursecode": "BMF102",
+        "length": "Semester2ONLY",
+        "credit": "0.5",
+        "grade": [
+            "9-12"
+        ],
+        "prerequisite": "Fashion Design and Merchandising 1",
+        "fees": "TBD",
+        "diplomacatagory": "Career & Technical Education, Flex",
+        "notes": "None",
+        "description": "Fashion Design and Merchandising Two exposes students to careers and skills needed for employment in the fashion industry.  In the second, one-semester course, students build upon the foundation skills learned in Fashion Design and Merchandising course 1 and apply them to industry-related projects such as forecasting fashion trends, styling clients, and creating window displays.  Throughout the course, students build a fashion portfolio to showcase their skills and work which can be used to interview for schools, employment, and internships."
+    },
+    {
+        "name": "INTERIOR DESIGN",
+        "coursecode": "HFI120",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Up to 5 college credits available",
+        "description": "If you have a keen interest in art and design, then Interior Design is the course for you! Make the most of all your talents in this project based laboratory course. Challenge yourself every day as you apply the elements and principles of design related to tasks and projects. The course of study will include exploring the appropriate use of: color concepts, floor plans, furniture arrangement and selection, lighting choices, textiles, green materials, as well as kitchen and bathroom design. If you would like to stimulate your personal growth in design and make a positive difference in people\u2019s lives, then Interior Design may be just what you\u2019re looking for!"
+    },
+    {
+        "name": "WEB DESIGN",
+        "coursecode": "BWE110",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This is a project-based coding course that introduces the basic elements of designing and developing web pages. Students will learn how to plan and design effective web pages for business and personal use. Web pages will be created using HTML, CSS and Bootstrap Framework.  This is the perfect course for students who are interested in both computer programming and web design, as students will see their HTML/CSS coding come to life in color and visuals on the webpages they create!"
+    },
+    {
+        "name": "AP COMPUTER SCIENCE PRINCIPLES / (IT-CS 101) INTRODUCTION TO COMPUTER SCIENCE",
+        "coursecode": "CHS516A/B",
+        "length": "Fullyear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Completion of Geometry or instructor permission",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education, 3rd Credit of Math, and 3rd Credit of Science; Completion of middle school coding class where the student achieved a grade of \u201cB\u201d or higher.",
+        "notes": "Students may take the corresponding AP exam in the Spring for potential college credit. See your counselor or teacher for more information.This is an introductory, beginner level course designed for non-STEM students or anyone exploring computer science.",
+        "description": "In this computer science course students survey fundamental concepts of computer science and computational thinking. Students learn to design and evaluate solutions and to apply computer science concepts and techniques to solve problems through the development of algorithms and programs. Students are introduced to logical reasoning, procedural decomposition, conditionals, iteration, problem solving, incorporating abstraction into programs and using data to discover new knowledge. Students explain how computing innovations and computing systems work (including the Internet), explore their potential impacts, and contribute to a computing culture that is collaborative and ethical. No previous programming experience is expected."
+    },
+    {
+        "name": "AP COMPUTER SCIENCE A / \u200b\u200b(CSE 121) INTRO TO COMPUTER PROGRAMMING",
+        "coursecode": "CHS521A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12 (incoming 9th graders with instructor permission)"
+        ],
+        "prerequisite": "Completion of Algebra II, Algebra II/Trig or instructor permission",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education, 3rd Credit of Math, 3rd Credit of Science",
+        "notes": "Students are encouraged to take the AP Exam in the spring. Students who select the CHS option and pay the college fee will have the college course title on their high school transcript. College credit is through University of Washington.",
+        "description": "This is a programming heavy course which is best for students who are planning to major in computer science, engineering or technology fields."
+    },
+    {
+        "name": "ADVANCED PROGRAMMING TOPICS 1 AND 2",
+        "coursecode": "VCP520 for semester 1/VCP521 for semester 2",
+        "length": "FullYear",
+        "credit": "1.0;coursecodesaretakenconsecutively",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Completion of APCSA or equivalent",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education, Algebra II",
+        "notes": "Can be  repeated as a yearlong course (Enter VCP520 for semester 1 and VCP521 for semester 2)",
+        "description": "This course provides an opportunity for highly motivated students who have completed a yearlong college-level Computer Science course (AP Computer Science A) to continue their studies in this field. In this course you will learn about advanced data structures and algorithms, while expanding your knowledge of object-oriented programming.The first semester is focused on learning interfaces, algorithms, and data structures (Stacks, Queues, Sets, Maps, Trees) to support event driven programming in GUI applications. As the year progresses each student will be given increased flexibility to focus more deeply on the topics and technologies that catch and hold their interest."
+    },
+    {
+        "name": "INTERMEDIATE DATA PROGRAMMING",
+        "coursecode": "TPG400A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Completion of Advanced Programming Topics",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Dive deeper into data, programming, and modern AI with Python. This course builds on foundational programming skills while exploring how data and algorithms power intelligent systems; especially language models and neural networks. A central component of the course is a student-driven data science research project. Students apply Python techniques such as data cleaning, transformation, aggregation, visualization, and statistical analysis to investigate a real-world question using a dataset of their choice. Working in Jupyter Notebooks with tools like Pandas, NumPy, and scikit-learn, students design experiments, analyze results, and communicate findings through written analysis and visual evidence\u2014mirroring authentic data science workflows. The course also introduces artificial intelligence concepts through hands-on exploration of language models. Students study how computers learn from text using n-grams, prediction, and neural network ideas, and examine how modern systems like large language models (LLMs) work at a conceptual level. Ethical considerations such as bias, data quality, and responsible AI use are emphasized throughout. This course prepares students to think critically, work with real data, and understand the technology behind today\u2019s AI-driven world."
+    },
+    {
+        "name": "COMPUTER SCIENCE MENTOR",
+        "coursecode": "BCS115",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Teacher permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may choose to work as a mentor for standard English courses OR English for English Language Learners (ELD or ALD). Teacher permission is required.",
+        "description": "This course is available either semester. Mentors work with a variety of students with a wide range of abilities. Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for this course."
+    },
+    {
+        "name": "INTRODUCTION TO ROBOTICS",
+        "coursecode": "TER215A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education, 3rd Year of Math",
+        "notes": "If the course is being taken to meet the 3rd year math option, students must have previously earned two credits in math and form must be filed with the Counseling Office.",
+        "description": "This course is designed to give students the opportunity to explore the world of robotics through the basic principles of design, construction, and programming of robots while learning problem-solving techniques, mathematics, logic, creativity, physics, electronics, mechanics, teamwork, computers and computer programming. The class is structured for both technical and non-technical students. Students will first learn how the basic components of a robot operate and then learn to join them together to form a robot that can complete simple functions. Students will use VEX Robot kits to design, build, test and modify their own robots. In the labs, students either individually or as teams will be challenged to construct robots that will perform a series of tasks. The goal of the class is to provide students the opportunity to apply science, math, technology, and engineering skills and concepts to something which is both challenging and fun."
+    },
+    {
+        "name": "ADVANCED ROBOTICS",
+        "coursecode": "TER300",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of Introduction to Robotics or previous robotics experience",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This course is designed to give students with previous robotics experience the opportunity to further their knowledge.  Teams will fabricate a robotic through the basic principles of design, construction, and programming while learning problem-solving techniques, mathematics, logic, creativity, physics, electronics, mechanics, computers and computer programming.  The class is structured for both technical and non-technical students. Students will be creating their own robots through the entire design and fabrication process.  Use of metal fabrication CNC machines, CAD design, lasers, milling machines, and 3d printers will also be part of the course.  In the lab, students work as teams and will be challenged to construct robots that will perform a series of tasks. The goal of the class is to provide students the opportunity to apply science, math, technology, and engineering skills and concepts to something which is both challenging and fun.."
+    },
+    {
+        "name": "INTRODUCTION TO ENGINEERING DESIGN",
+        "coursecode": "TEC105",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This course is open to any student who would like to learn about engineering design and the processes of building things. Applying problem solving, visual communication, and design skills along with using industrial technology systems, students create and build challenging and exciting projects. Units of study include manufacturing, electricity/electronics, energy, power, computer aided drafting (CAD), structures and architecture. Class projects will be hands-on and constructed out of a variety of materials that could include wood, metal and plastic"
+    },
+    {
+        "name": "AVIATION:  INTRODUCTION TO FLIGHT",
+        "coursecode": "VAT400A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12 (NCHS 9th graders with permission of instructor)"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Demand for aviation talent is high, and this course gives young men and women, without any prior experience, the opportunity to explore the world of aviation. Topics include aerodynamics, careers, charts, flight planning, history of aviation and space technology, navigation, piloting and propulsion systems. Each student has access to Lockheed-Martin Prepar3D\u00ae flight simulation systems, used to master a variety of aviation skills. This remarkable simulation technology allows our students to \u201cfly\u201d a variety of aircraft, including jets, in any weather condition, to any airport in the world, using sophisticated electronic navigation techniques. At least one field trip to an aviation related organization (such as the Boeing Museum of Flight) is typically included. All students participate in the King Schools ground school video curriculum as an integral part of this course. This widely acclaimed course is intended to prepare students to pass their FAA Private Pilot written exam!"
+    },
+    {
+        "name": "METAL FABRICATION",
+        "coursecode": "TEM100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This class is designed to provide students with knowledge of the basic concepts of metalworking.  Emphasis will be placed on the hands-on study of sheet metal, forming, CNC machining, hand tool operations, and bench work practices.  Industry standard Computer Integrated Manufacturing machines will be used frequently including CNC Waterjet, CNC milling machines, and other output machinery.  Several project-based learning activities will be accomplished."
+    },
+    {
+        "name": "CAD LAB",
+        "coursecode": "TEC115",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Do you want to be creative, innovative, and create your very own projects by transforming technology into reality?  Students will be engaged in basic computer aided design (CAD) curriculum activities involving the design process.  Course work will include lessons in technical drawing, vector design, 2d and 3d modeling to promote problem solving.  Students will learn basic CAD software (Rhinoceros) and how to export designs to a variety of CNC machinery including vinyl cutter, t-shirt press, CNC router, laser, waterjet and 3d printer."
+    },
+    {
+        "name": "ADVANCED SPORTS MEDICINE",
+        "coursecode": "VNE151",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and Acceptance",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students)",
+        "description": "This course builds on Beginning Sports Medicine/Athletic Training as students will focus more on how to evaluate and rehabilitate specific sports injuries.  They will also learn about the psychological aspects of sports injury, sports nutrition, and sport pharmacology.  Students enrolled are required to obtain 60 hours of athletic training experience and complete a clinical internship at a local healthcare facility (hospital, physical therapy clinic, high school, college or professional training room, massage therapy clinic, chiropractic clinic, fire department, fitness center, dental office dietician/nutrition center).  Students will also participate in the Washington Career & Technical Sports Medicine State competition held in the spring. Students who earn a \u201cB\u201d or better in this course qualify for college credit through our Tech Prep College Connections program."
+    },
+    {
+        "name": "MEDICAL PROFESSIONAL ACADEMY (SKILL CENTER PROGRAM)",
+        "coursecode": "VNE151",
+        "length": "FullYear(3consecutiveperiods)",
+        "credit": "3.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and Acceptance",
+        "fees": "Fees are associated with this course for purchasing required supplies",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Woodinville (Satellite program \u2013 open to all NSD students).  Up to 16 college credits available through Bellevue College.",
+        "description": "This intensive course of study introduces students to a variety of careers in the healthcare industry with emphasis on hands-on, patient-oriented careers such as physician, nursing and other therapists. At the end of the year students are qualified for the Nursing Assistant State exam. Nursing Assistant is an entry level position in healthcare and will allow you to enter the medical field right after graduation from the program."
+    },
+    {
+        "name": "CONSTRUCTION ACADEMY (SKILL CENTER PROGRAM)",
+        "coursecode": "VNE151",
+        "length": "FullYear(2ConsecutivePeriods)",
+        "credit": "2.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and Acceptance. Successful completion of previous introductory course in woods, metals, welding, or manufacturing Career & Technical Education or Geometry",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students)",
+        "description": "The Construction Academy program is designed to provide students with the technical skills necessary for entry-level trades positions and includes a strong emphasis on jobsite safety. This course also focuses on developing professionalism and highly employable traits and characteristics, providing students skills necessary in all aspects of industry, including customer service and technical writing. Skills and knowledge are cultivated using hands-on activities, project-based learning, field trips, and guest speakers to meet rigorous academic and industry standards. Students will participate in all aspects of building a structure, including planning, blueprint reading, floor, wall and roof systems, electrical, plumbing, and interior finishes. Students will also gain insight into the different pathways within the construction industry and the different career opportunities associated with each pathway."
+    },
+    {
+        "name": "AUTO TECHNOLOGY - ADVANCED (SKILL CENTER PROGRAM)",
+        "coursecode": "VNE151",
+        "length": "FullYear(3consecutiveperiods)",
+        "credit": "3.0",
+        "grade": [
+            "10",
+            "11 (Beginning) 11",
+            "12 (Advanced)"
+        ],
+        "prerequisite": "Application and Acceptance..",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students).  Up to 16 college credits available.",
+        "description": "Designed as a two-year course of study during a student\u2019s junior and senior years. Both Beginning Auto Tech, for juniors, andAdvanced Auto Tech, for seniors, meet three periods per day. This gives students a \u201creal world\u201d experience of an automotive career, including a significant amount of vehicle diagnosis and repair. Exciting Hybrid and Electric Vehicle Program included."
+    },
+    {
+        "name": "IB DESIGN TECHNOLOGY SL",
+        "coursecode": "VNE151",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education and 3rd Credit of Science",
+        "notes": "None",
+        "description": "This project-based course provides students with an exploration of the process and tools used in industrial (products) design including an in-depth look at human factors and ergonomics, CAD/CAM, material science, and sustainable design. Individual portfolios will be developed based on class projects."
+    },
+    {
+        "name": "IB DESIGN TECHNOLOGY HL",
+        "coursecode": "VNE151",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "Application and acceptance",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is Inglemoor (Satellite program \u2013 open to all NSD students). Up to 5 college credits.",
+        "description": "Are you interested in design, engineering, architecture, and the environment? Do you like developing creative solutions to complex problems? The focus of this project-based course is to design and engineer products/systems that balance our human footprint with the natural earth system. While working alongside industry partners, students will apply the concepts of whole system design, life cycle analysis, and the triple-bottom line to develop a comprehensive culminating project. Students will have the opportunity to showcase their project at the annual WSU Imagine Tomorrow Competition. They will also participate in industry tours and related site visits for inspiration and career planning. This course is articulated with the Cascadia Community College\u2019s ETSP program and supported by industry/education leaders such as McKinistry, Pensar Development, Synapse, and the University of Washington\u2019s Center for Innovation and Entrepreneurship."
+    },
+    {
+        "name": "CULINARY ARTS",
+        "coursecode": "VNE151",
+        "length": "FullYear(2consecutiveperiods)",
+        "credit": "2.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and acceptance. Food and Nutrition recommended.",
+        "fees": "Uniform",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students).  Up to 9 college credits available",
+        "description": "Would you like to know \u201cChef secrets\u201d or how to make restaurant quality food?  Then the Culinary Arts class is for you.  This professional class is offered to 11th and 12th graders who are interested in learning restaurant industry secrets.  Students will learn hands-on industry experience through food preparation, entry level baking (cookies, gingerbread structures, quick breads), cooking methods (grilling, saut\u00e9, stir fry) & techniques (knife skills, presentation, garnishing).  To enhance their culinary experience students will have the opportunity to develop tastes & flavors, try new foods and grow varying ingredients in the class run garden.  Students will explore culinary careers in the food industry, work with industry professionals, tour food establishments and work with college culinary programs.  Students will also experience the \u201cbook\u201d end of restaurants by costing recipes, market their prepared foods, and work in customer relations.  Culinary Arts is where you learn how to have a successful career in the food industry!  A practical and written exam will be administered as part of this program."
+    },
+    {
+        "name": "BAKING & PASTRY ARTS",
+        "coursecode": "VNE151",
+        "length": "FullYear(2consecutiveperiods)",
+        "credit": "3.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and acceptance.  Completion of Food and Nutrition OR Culinary Arts.",
+        "fees": "Uniform",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students).  Up to 9 college credits available",
+        "description": "Baking and Pastry Arts is the third course in the Family Consumer Science Chef Pathway.  In this advanced, fast paced course, students will learn the baking techniques of mixing, shaping, folding and baking while exploring the science and math behind baking.  Students will learn how to successfully make quick breads, decorated cakes, laminated dough, mousses, sauces, custards & frozen desserts, cookies, and confections.  Plated desserts, international baked foods, yeast dough and chocolate work & candies will also be explored in this year- long course.  In addition, students will be introduced to decorating techniques like sugar and chocolate garnishing.  Students will learn in a well-equipped, industry standard kitchen to prepare food for student presentations, school functions and community service events.  This course includes classroom instruction and practical lab work in a commercial kitchen.  A practical and written exam will be administered as part of this program."
+    },
+    {
+        "name": "CAREERS IN EDUCATION",
+        "coursecode": "VNE151",
+        "length": "FullYear(2consecutiveperiods)",
+        "credit": "2.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Application and acceptance.",
+        "fees": "Uniform",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Location is at Bothell (Satellite program \u2013 open to all NSD students).  Students can earn college credit.  Students will also earn the state S.T.A.R.S. certification required to work in licensed child care centers.  Up to 8 college credits available.",
+        "description": "If you\u2019re considering a career in education as a teacher, counselor, or an administrator, the Teaching Academy will give you the \u201ctotal teaching\u201d experience. Students will gain experience in understanding the learner, schools, teachers and teaching as well as exploring pathways to the future. Working with a mentor teacher, students expand and apply their knowledge during an internship experience in an elementary or middle school. As an intern, you will experience the inner workings of the classroom, school and district, while performing duties such as tutoring, grading, supervising and eventually teaching. As a college level course, Teaching Academy is best suited for students willing to apply themselves to the study of interesting and sometimes challenging material."
+    },
+    {
+        "name": "AP PSYCHOLOGY",
+        "coursecode": "APP100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Career & Technical Education, Flexible Credit",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "The Advanced Placement Psychology course is designed to introduce students to the systematic and scientific study of human mental processes and behavior. Students are exposed to the psychological facts, principles, and phenomena associated with each of the major subfields within psychology (such as: history and approaches, research methods, biology and behavior, learning and cognition, developmental and abnormal psychology, and social psychology). Students will also learn about careers in psychology and the pathways to additional training. This course is equivalent to an introductory college course in psychology.  This is a demanding course with a significant homework requirement."
+    },
+    {
+        "name": "LIFESPAN PSYCHOLOGY",
+        "coursecode": "HFP240",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This exploratory course is designed to introduce students to the many subjects of psychology. Through class discussion, lectures, projects and presentations students will learn about the human lifespan. Subjects that will be covered include: child development, personality, intelligence, personal and professional relationships, communication, family dynamics, and many other popular psychology topics. Tech Prep college credit is pending."
+    },
+    {
+        "name": "ANNUAL STAFF (YEARBOOK)",
+        "coursecode": "TEA150A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12 (9th grade with teacher permission - misakson@nsd.org)"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Students assume responsibility for designing the yearbook, writing copy, taking photographs, soliciting advertising, and promoting sales.  Strong English skills and creativity are desired."
+    },
+    {
+        "name": "ASB OFFICER CLASS",
+        "coursecode": "YYN221A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "This course is open to ALL students. You do not need to be elected to join. Incoming 9th graders who want to serve on 9th Grade Class Council must enroll in this class.",
+        "description": "This course is also designed for student leaders who are committed, creative, assertive, organized, and responsible. There is an emphasis on the importance of communication, character, personal growth, building relationships, and recognizing/serving others first. In this class students will learn how to intentionally build leadership and character through learning/practicing the \u201cEight Essentials\u201d of Servant Leadership: Patience, Kindness, Humility, Respect, Selflessness, Forgiveness, Honesty, and Commitment (Hunter 124). This course or (high school) Leadership Class is required to enroll in the Advanced ASB Officer Class."
+    },
+    {
+        "name": "ADVANCED ASB OFFICER CLASS",
+        "coursecode": "YYN240A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "High School Leadership class or ASB Officers class. All elected ASB officers must enroll in this class (ASB Exec. Board & Class Council).",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "Seniors are eligible to take Advanced ASB with no prerequisites with advisor approval.",
+        "description": "This course is designed for student leaders who are committed, creative, assertive, organized and responsible. Students will be expected to plan, facilitate and implement school activities such as, but not limited to, assemblies, dances, blood drives, canned food drives, fundraisers, and school and community improvement projects that exhibit the qualities of servant leadership. Through these activities students will develop and build leadership and character through learning/practicing the \u201cEight Essentials\u201d of Servant Leadership: Patience, Kindness, Humility, Respect, Selflessness, Forgiveness, Honesty and Commitment (Hunter 124)."
+    },
+    {
+        "name": "PEER COACHING (ADVOCATE FOR SPECIAL EDUCATION PROGRAM)",
+        "coursecode": "YYN071",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Teacher permission",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Peer coaches will have the experience of working directly with students with moderate to significant developmental disabilities.  Peer coaches work with students in a variety of ways including: general academic support, 1:1 direct instruction, taking data, and classroom management. Students must be reliable, respectful, conscientious and able to take initiative.  This is a great opportunity for students interested in entering the teaching or medical fields."
+    },
+    {
+        "name": "SPORTS MEDICINE",
+        "coursecode": "VMA210A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "Students in this course develop and apply skills connected to different careers within the field of sports medicine and athletic training. The course is structured with both classroom and applied learning/internship components working under the supervision of the certified athletic trainer with high school sports teams. The standards for this course are based upon the National Athletic Trainers\u2019 Association six domains of responsibility/education, and the Career and Technical Education Therapeutic and Sports Medicine competencies strands."
+    },
+    {
+        "name": "PRE AP ENGLISH 9",
+        "coursecode": "ENG160A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 9",
+        "notes": "None",
+        "description": "This course establishes the skills necessary for a successful progression of learning for advanced high school ELA coursework. Students will be introduced to fundamentals of close observation, critical analysis, and the author\u2019s craft.  Students will engage in readings that attend to small details within a text that deepen the meaning of the whole passage.  Students will also write complex sentences that lead to lengthier writing.  In addition, vocabulary will be enhanced and speaking skills will be practiced in this course."
+    },
+    {
+        "name": "ELL ENGLISH 9",
+        "coursecode": "ELL100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9"
+        ],
+        "prerequisite": "Student is learning English as an additional language.",
+        "fees": "None",
+        "diplomacatagory": "English 9",
+        "notes": "Differentiated support will be provided for different proficiency groups.",
+        "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs."
+    },
+    {
+        "name": "LC ENGLISH 9",
+        "coursecode": "SPL100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "English 9",
+        "notes": "None",
+        "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards."
+    },
+    {
+        "name": "PRE AP ENGLISH 10",
+        "coursecode": "ENG255A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 10",
+        "notes": "9th graders in the Highly Capable program who are dually qualified or qualified in reading may register for this course",
+        "description": "This course prepares sophomores for rigorous Advanced Placement (AP) programs as it builds upon previous learning from Pre-AP English 9 with new and more complex literary and informational texts. As writers, students will compose analytical essays with a focus on craft and cohesion. Students will engage with content related to argument, persuasion in literature, voice in synthesis, and purpose in poetry and prose."
+    },
+    {
+        "name": "ELL ENGLISH 10",
+        "coursecode": "ELL200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10"
+        ],
+        "prerequisite": "Student is learning English as an additional language.",
+        "fees": "None",
+        "diplomacatagory": "English 10",
+        "notes": "Differentiated support will be provided for different proficiency groups.",
+        "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs."
+    },
+    {
+        "name": "LC ENGLISH 10",
+        "coursecode": "SPL200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "English 10",
+        "notes": "None",
+        "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards."
+    },
+    {
+        "name": "ENGLISH 11",
+        "coursecode": "ENG300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 11",
+        "notes": "None",
+        "description": "Students will strengthen and refine the analytical thinking, reading, writing and communication skills learned in previous grades.  They will engage in critical, close reading of nonfiction, short fiction, argumentative essays, and a variety of literature within the context of American history.  Students will incorporate an analytical perspective as they employ the application of literary devices, literary techniques, and ideas conveyed in the readings."
+    },
+    {
+        "name": "ELL ENGLISH 11",
+        "coursecode": "ELL300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "Student is learning English as an additional language",
+        "fees": "None",
+        "diplomacatagory": "English 11",
+        "notes": "Differentiated support will be provided for different proficiency groups.",
+        "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs."
+    },
+    {
+        "name": "LC ENGLISH 11",
+        "coursecode": "SPL300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "English 11",
+        "notes": "None",
+        "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards."
+    },
+    {
+        "name": "AP ENGLISH LANGUAGE & COMPOSITION",
+        "coursecode": "ENG475A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12 (10th graders in the Highly Capable program who completed Pre-AP English 10 in 9th grade may register for this course)"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "English 11 or English 12",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "AP English Language and Composition is an introductory college-level composition course that culminates with the AP English Language and Composition exam in the spring. Students cultivate their understanding of writing and rhetorical arguments through reading, analyzing, and writing texts as they explore topics like rhetorical situations, claims and evidence, reasoning and organization, and style."
+    },
+    {
+        "name": "AP ENGLISH LITERATURE AND COMPOSITION",
+        "coursecode": "ENG480A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12 (10th graders in the Highly Capable program who completed Pre-AP English 10 in 9th grade may register for this course)"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "English 11 or English 12",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Advanced Placement Literature and Composition is a year-long, college-level course that culminates with the AP Literature and Composition exam in the spring. Students will participate in reading, analyzing, and writing about imaginative literature (fiction, poetry, drama) from various periods. Students will engage in close reading and critical analysis of imaginative literature to deepen their understanding of the ways writers use language to provide both meaning and pleasure. As they read, students consider a work\u2019s structure, style, and themes, as well as its use of figurative language, imagery, and symbolism. Writing assignments include expository, analytical, and argumentative essays that require students to analyze and interpret literary works."
+    },
+    {
+        "name": "CREATIVE WRITING: POETRY & SHORT STORY",
+        "coursecode": "ENG335A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 11 or English 12",
+        "notes": "None",
+        "description": "Creative Writing draws on skills and imagination to convey meaning through language. This class will read and write within genres of poetry and short story, exploring various forms of each. You will analyze literature for authorial choices and literary devices in order to understand the craft of writing. You will apply stylistic devices to your own writing, learning new skills and applying important techniques. You will collaborate routinely and effectively through workshops as you give and receive feedback. By the end of our year together you will have read and written much, resulting in a final portfolio of your own best original work."
+    },
+    {
+        "name": "COLLEGE PREP ENGLISH: DISCOURSE AND SOCIETY",
+        "coursecode": "ENG545A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 11 or English 12",
+        "notes": "None",
+        "description": "Designed to prepare students for the rigor and pace of college study, this course requires students to consistently demonstrate a commitment to rhetoric, debate, and the study of contemporary issues. Students will read a core collection of diverse literature, well-known essays, and current articles, and engage with film, podcasts, and lyrics on a wide range of topics. They will study the personal arenas that shape them including culture, gender, race, and socioeconomic status. Students will master formal skills in debate as a means for strengthening their ability to use skills in logic and critical thinking to articulate their well-reasoned theories. Our collective learning will focus on improving skills in close reading and analysis of complex texts, writing and articulating arguments, and collaborative discourse. Students will continue their study of Writing Analytically with a focus on critical theory and the lenses that shape it, as well as academic discourse and debate skills."
+    },
+    {
+        "name": "ADVANCED NEWSPAPER (JOURNALISM)",
+        "coursecode": "ENG346A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Newspaper (Journalism) or Beginning Journalistic Writing",
+        "fees": "None",
+        "diplomacatagory": "English 11 or English 12",
+        "notes": "This class may be offered simultaneously with Yearbook",
+        "description": "Advanced Newspaper (Journalism) and Production students will pick up where they left off in Beginning Journalistic Writing, with emphasis on Publication Management, Newspaper Production, the current state of news in the community, and refining their understanding of news writing. Additionally, students will be producing photos and graphics in Photoshop CC and Illustrator CC, and layout and design the newspaper in InDesign CC. Students will create news and editorial content for print and web, produce digital and physical marketing and advertising campaigns, research and analyze the First Amendment as it pertains to their rights as journalists. Student writing will be assessed through a portfolio demonstrating their understanding of the content and/or skill at hand and through the publication of their work in digital and physical media."
+    },
+    {
+        "name": "ENGLISH 12",
+        "coursecode": "ENG400A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "English 12",
+        "notes": "None",
+        "description": "This course is designed to prepare students for the rigor and pace of college. It requires students to consistently demonstrate a commitment and competence to language arts studies.  Students will read challenging texts from world literature, write analytical essays and read secondary critical sources. Throughout the course of the year, students will explore works of fiction that include full-length novels and plays as well as thematically-related nonfiction. Students will examine several perspectives on a given subject, appreciate the wide array of opinions, and advance their ideas with the framework of current debates on the topic."
+    },
+    {
+        "name": "ELL ENGLISH 12",
+        "coursecode": "ELL400A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "Student is learning English as an additional language",
+        "fees": "None",
+        "diplomacatagory": "English 12",
+        "notes": "Differentiated support will be provided for different proficiency groups.",
+        "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs."
+    },
+    {
+        "name": "LC ENGLISH 12",
+        "coursecode": "SPL450A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "English 12",
+        "notes": "None",
+        "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards."
+    },
+    {
+        "name": "NEWSPAPER (JOURNALISM)",
+        "coursecode": "ENG345A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "This class may be offered simultaneously with Yearbook",
+        "description": "Newspaper (Journalism) is designed to develop fundamental journalistic writing - to both sharpen students\u2019 storytelling skills and to prepare them to approach content ethically and legally. Students will gain a broader understanding of the journalistic writing process and experience writing in a variety of journalistic forms: Op/Ed, Features, and News stories. Topics to be addressed include: the role of the media in a democracy, media law, ethical decision-making and news judgment, news gathering, interviewing, news writing, editing and style, layout and design, and an introduction to media production software."
+    },
+    {
+        "name": "ELA MENTOR",
+        "coursecode": "ENG115",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Teacher permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may choose to work as a mentor for standard English courses OR English for English Language Learners (ELD or ALD). Teacher permission is required.",
+        "description": "This course is available either semester. ELA Mentors work with a variety of students with a wide range of abilities. ELA Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for this course."
+    },
+    {
+        "name": "HEALTH",
+        "coursecode": "HEA410",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "Health",
+        "notes": "Recommended to be taken in 9th or 10th grade",
+        "description": "Total well being\u2014mentally, physically, and socially is what health is about. This course has been developed to help you gain the knowledge and behaviors essential to increase your quality of life and wellness now as well as an investment in your future health. Improving your health through nutrition and exercise (you will suit up once a week for exercise), substance abuse prevention, managing your emotions and stress, handling crisis, decreasing your risk for heart disease and cancer, using proper CPR techniques, and human sexuality are topics that will be covered.  The goal is to help students understand the choices they make everyday and the consequences each choice has on their health and wellness now and in the future."
+    },
+    {
+        "name": "LIFE FITNESS",
+        "coursecode": "PLF200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "Life Fitness, PE 9-12",
+        "notes": "Recommended to be taken in 9th or 10th grade",
+        "description": "Students will acquire knowledge so that they can make informed decisions on a lifetime fitness program, the importance of maintaining a level of fitness, and setting personal goals for fitness improvement.  Students will learn how to take responsibility for their personal fitness and will be provided with the tools they need to assess fitness and create goals, acquire skills to properly exercise and monitor themselves, develop sound nutrition habits, and design and implement a personal program of exercise.  The course includes weight training, cardiovascular training, team sports experiences, and lectures.  This class may be taken as a prerequisite to Advanced Strength & Fitness."
+    },
+    {
+        "name": "OUTDOOR ADVENTURES",
+        "coursecode": "POA100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "The students enrolled in the Outdoor Adventures Class will progress through an experientially-based program that emphasizes interpersonal relationships and individual growth. This course encourages students to develop greater self-confidence and, at the same time, acquire a sense of trust and commitment in their classmates. Outdoor education is designed to expose students to a variety of outdoor skills like knot-tying, pioneering, wilderness first aid, and orienteering. The class will also pursue outdoor activities which may include: camping, backpacking, survival skills, hiking, and other outdoor games."
+    },
+    {
+        "name": "RACKET SPORTS",
+        "coursecode": "PRS200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "This class is an introduction to racket sports with an emphasis on basic skills, rules, and strategies for badminton and pickleball (tennis and ping pong possibly).  Class will also involve setting up and playing various tournaments."
+    },
+    {
+        "name": "STRENGTH AND FITNESS",
+        "coursecode": "PSF100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "This class consists of lifting techniques and conditioning. Students will be on a three-day a week lift schedule. Cardiovascular and plyometric training will complete the weekly schedule."
+    },
+    {
+        "name": "COMPETITIVE TEAM SPORTS",
+        "coursecode": "PTS100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "This class will offer students the opportunity to participate and improve their skills in a wide variety of team sports.  Such activities may include basketball, flag football, floor hockey, soccer, softball, speedball, team handball, ultimate Frisbee, and volleyball.  Curriculum will vary depending on the time of year and availability of facilities."
+    },
+    {
+        "name": "RECREATIONAL TEAM SPORTS",
+        "coursecode": "PPE226",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "This course is designed for students to improve activity-specific skills and knowledge, so that they can participate meaningfully in multiple team and individual sports. Students will set SMART goals for individual movement, performance, and health-related goals. Volleyball, basketball, ultimate frisbee, table tennis, floor hockey, flag football, soccer, badminton, and pickleball units may be part of the class. Students will partner with their peers in a recreational, less-competitive, team-sports setting."
+    },
+    {
+        "name": "VOLLEYBALL",
+        "coursecode": "PVO200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "Emphasis is placed on individual skill, learning of systems, and rules of the game.  Skills covered will be passing, hitting, serving, and setting.  Variations in defense and offense will also be included."
+    },
+    {
+        "name": "WALKING FITNESS",
+        "coursecode": "PWA200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "None",
+        "description": "This course is designed for students interested in improving their personal level of fitness through walking. Students will learn how walking can improve cardiorespiratory fitness, prevent disease, and reduce stress. They will also learn about the relationship between daily sleep and nutritional habits, exercise and physical and emotional performance."
+    },
+    {
+        "name": "YOGA",
+        "coursecode": "PYP100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "PE Clothes (see fees pg 14-15)",
+        "diplomacatagory": "PE 9-12",
+        "notes": "Can be repeated",
+        "description": "In this class, students will improve their muscular strength, endurance, and flexibility through yoga and Pilates practice.  They will learn many basic postures, learn about the different styles of each practice and will eventually be asked to create their own routine to share with the class.  Students will spend time making individual goals for their progress throughout the semester.  This class is open to all skill levels and is not religiously based."
+    },
+    {
+        "name": "ALGEBRA I",
+        "coursecode": "MAL100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Algebra I",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+        "description": "This course expands on the students\u2019 understanding of using arithmetic operations and properties to include the symbolic language of algebra. Students will formalize their understanding of functions with a focus on linear functions, quadratic functions, and exponential functions. Other topics that will be studied are writing equations to model linear equations, solving systems of linear equations and inequalities, solving quadratic equations with real roots, exponent laws and properties, and data analysis. Students will continue to develop problem solving, reasoning and proof, communication, and mathematical modeling skills aligned to the Standards for Mathematical Practice."
+    },
+    {
+        "name": "GEOMETRY",
+        "coursecode": "MGE100A/B",
+        "length": "YearLong",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra I or Concurrent Enrollment in Algebra I",
+        "fees": "None",
+        "diplomacatagory": "Geometry",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+        "description": "Students will build upon algebraic skills from Algebra 1 by applying them to new geometric concepts. Students will formalize their reasoning skills to write proofs built on definitions, axioms, and theorems. Students will study symbolic logic, parallel and perpendicular lines, triangle properties, quadrilateral properties, and properties of other polygons and circles. Other topics that will be studied are similar and congruent figures, right triangle trigonometry, coordinate geometry, geometric transformations, area, surface area and volume of three-dimensional figures."
+    },
+    {
+        "name": "ALGEBRA II/TRIGONOMETRY",
+        "coursecode": "MAL185A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra I and Geometry",
+        "fees": "None",
+        "diplomacatagory": "3rd Credit of Math",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+        "description": "Students will expand their understanding of number systems to include complex numbers and will grow more proficient in their use of algebraic techniques. This course focuses on the study of functions: linear, absolute value, piecewise, quadratic, exponential, logarithmic, square and cube root, cubic, and those involving inverse variation and rational functions. Students will study periodic and trigonometric functions. This course meets the third-year math requirement for high school graduation and college admission requirements. This course will prepare students for Precalculus and Calculus. The breadth and depth are greater than that of the Algebra 2 course."
+    },
+    {
+        "name": "(MATH & 141) PRECALCULUS I",
+        "coursecode": "CHS111A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra II/Trigonometry",
+        "fees": "None, college fees are now covered by WA State.",
+        "diplomacatagory": "3rd Credit of Math, Geometry or Algebra I",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+        "description": "Students will continue to build and expand upon their understanding of functions and equations to include quadratic, exponential, logarithmic, polynomial, rational, radical, and power functions.   This class is equivalent to most community college\u2019s classes titled Math 141."
+    },
+    {
+        "name": "(MATH & 142) PRECALCULUS II",
+        "coursecode": "CHS105A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "Precalculus 1",
+        "fees": "None, college fees are now covered by WA State.",
+        "diplomacatagory": "3rd Credit of Math, Geometry or Algebra I",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+        "description": "Students will continue to build and expand upon their understanding of functions and equations to include trigonometric functions, equations, identities, vectors, polar coordinates, parametric equations, and conics.   This class is equivalent to most community college\u2019s classes titled Math 142."
+    },
+    {
+        "name": "(MATH & 141 AND 142) PRECALCULUS I AND II",
+        "coursecode": "CHS115A/B",
+        "length": "FullYear",
+        "credit": "2.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra II/Trigonometry",
+        "fees": "None, college fees are now covered by WA State.",
+        "diplomacatagory": "3rd Credit of Math, Geometry, or Algebra I",
+        "notes": "High School level math courses require students to use a graphic calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+        "description": "Notes: 9th graders registering for this course should have earned A grades in Algebra II/Trig without using retakes.  All other 9th graders should re-take Algebra II/Trig in 9th grade."
+    },
+    {
+        "name": "(MATH& 146) INTRO TO STATISTICS/AP STATISTICS",
+        "coursecode": "CHS155A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra II/Trigonometry",
+        "fees": "None, college fees are now covered by WA State. Students choosing to take the AP exam in the Spring will be required to pay for testing; financial aid available, please see your counselor.",
+        "diplomacatagory": "3rd Credit of Math, Geometry or Algebra I",
+        "notes": "High School level math courses require a graphing calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.  Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "This course is designed to offer a continued study of quantitative thinking in the areas of statistics and probability. Throughout this course students will be introduced to the major concepts and tools for collecting and analyzing data as it relates to four conceptual themes: exploring data, sampling and experimentation, anticipating patterns, and statistical inference. This course reflects the content of a typical introductory college level statistics course. This course may be taken concurrently with another mathematics course."
+    },
+    {
+        "name": "(MATH & 151) CALCULUS I /AP CALC AB",
+        "coursecode": "CHS145A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Precalculus I and II",
+        "fees": "None, college fees are now covered by WA State. Students choosing to take the AP exam in the Spring will be required to pay for testing; financial aid available, please see your counselor.",
+        "diplomacatagory": "3rd Credit of Math, Geometry, or Algebra I",
+        "notes": "High School level math courses require students to use a graphing calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed. College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.  Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Students can choose the AP Program, and/or the Cascadia College in the High School program. This course is equivalent to Math 151 (Differential Calculus). Both programs include a conceptual development, a formal development, and applications of basic differential and integral calculus. Emphasis is on process, problem solving, and clear communication of ideas and techniques. Students will have the option of taking the AP \u2018AB\u2019 Exam in the spring. Note that a graphing calculator is required."
+    },
+    {
+        "name": "(MATH & 152 AND 153) CALCULUS II  AND III/AP CALC BC",
+        "coursecode": "CHS159A/B",
+        "length": "FullYear",
+        "credit": "2.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Calculus I/AP Calculus AB",
+        "fees": "None, college fees are now covered by WA State. Students choosing to take the AP exam in the Spring will be required to pay for testing; financial aid available, please see your counselor.",
+        "diplomacatagory": "3rd Credit of Math, Geometry, or Algebra I",
+        "notes": "High School level math courses require students to use a scientific calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.  Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "AP Calculus II AND III  is a course designed for students who have successfully completed Calculus I. Students can choose the AP Program, and/or the Cascadia College in the High School program. The course is equivalent to Math 152 (Integral Calculus). The curriculum builds on Calculus I and extends to cover a second quarter and part of a third quarter of college calculus. Topics of study may include advanced integration techniques and applications, functions of several variables, parametric and polar functions, sequences and series, and vectors in R2 and R3. Note that a graphing calculator is required."
+    },
+    {
+        "name": "(MATH & 254) CALCULUS IV",
+        "coursecode": "CHS139",
+        "length": "Semester",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Calculus II and III/AP Calc BC",
+        "fees": "None, college fees are now covered by WA State. Students choosing to take the AP exam in the Spring will be required to pay for testing; financial aid available, please see your counselor.",
+        "diplomacatagory": "3rd Credit of Math, Geometry, or Algebra I",
+        "notes": "This course fulfills the quantitative or symbolic reasoning course requirement at BC. High School level math courses require students to use a graphing calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.  College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+        "description": "Math 153 emphasizes the study of infinite sequences and series including power series. Topics include plane analytic geometry, graphing in polar coordinates, and an introduction to vectors.  Math 254 extends the concepts of calculus to vector-valued functions and functions of several variables. Partial derivatives are included. Extends the concepts of calculus to vector-valued functions and functions of several variables.  Partial derivatives are included."
+    },
+    {
+        "name": "ADVANCED MATH TOPICS",
+        "coursecode": "MAD300",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Calculus IV",
+        "fees": "None",
+        "diplomacatagory": "3rd Credit of Math, Algebra I, or Algebra II",
+        "notes": "High School level math courses require students to use a scientific calculator such as TI-84 Plus or above.  It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+        "description": "Advanced Math Topics (AMT) is a course designed for students who have completed (MATH&254) Calculus IV. Students in AMT will self-select a survey of introductory course modules ranging from the following topics: Intermediate Multivariable Calculus, Linear Algebra, Differential Equations, Discrete Mathematics, Abstract Algebra, Cryptography Analytics."
+    },
+    {
+        "name": "MATH 1",
+        "coursecode": "SPL130A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "Algebra 1",
+        "notes": "None",
+        "description": "This course is for students receiving Special Education services in math.  The course will provide specially designed instruction targeted at individual math goals."
+    },
+    {
+        "name": "MATH 2",
+        "coursecode": "SPL230A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "Geometry",
+        "notes": "None",
+        "description": "This course is for students receiving Special Education services in math.  The course will provide specially designed instruction targeted at individual math goals."
+    },
+    {
+        "name": "MATH 3",
+        "coursecode": "SPL330A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "Algebra II, Algebra 1, Geometry",
+        "notes": "None",
+        "description": "This course is for students receiving Special Education services in math.  The course will provide specially designed instruction targeted at individual math goals."
+    },
+    {
+        "name": "MATH 4",
+        "coursecode": "SPL431A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "Student has an IEP",
+        "fees": "None",
+        "diplomacatagory": "Algebra II, 3rd Year of Math, Algebra 1",
+        "notes": "None",
+        "description": "This course is for students receiving Special Education services in math.  The course will provide specially designed instruction targeted at individual math goals."
+    },
+    {
+        "name": "MATH MENTOR",
+        "coursecode": "MAT110",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Teacher Permission Required",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Repeatable",
+        "description": "This course is available either semester. Math Mentors work with a variety of students with a wide range of abilities. Math Mentors will be trained on instructional methods, data collection, and social interactions through \u2018job shadowing\u2019 and \u2018on the job\u2019 observations. Pass / Fail credit is given for this course. Math Mentors must be in a high-level math class and would mentor in all lower level classes."
+    },
+    {
+        "name": "THEATRE ARTS I",
+        "coursecode": "DRA115",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This class is designed to lay the foundation for acting by developing skills in movement, improvisation and character development."
+    },
+    {
+        "name": "THEATRE ARTS II",
+        "coursecode": "DRA215",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Theatre Arts I",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This course continues to build performance skills focusing on acting, scene studies, and analysis."
+    },
+    {
+        "name": "SCENE STUDIES",
+        "coursecode": "DRA225",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Theatre Arts II",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Scene Studies is an advanced Theatre Arts course that will encourage students to think and work creatively in both individual and ensemble projects. The student will be exposed to all aspects of Theatre including acting, production, and technical skills. The scene work for this class will be pulled from a diverse range of cultural and historical resources allowing the student to experience many forms of the dramatic arts. Scene Studies is the perfect follow-up to Theatre Arts I & II."
+    },
+    {
+        "name": "TECHNICAL THEATRE",
+        "coursecode": "DRA300",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "none",
+        "fees": "None",
+        "diplomacatagory": "The Arts, Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "This course will teach design principles and construction techniques to be used in a hands-on approach to production.  Students will be involved in various aspects of backstage work for school productions."
+    },
+    {
+        "name": "ADVANCED TECHNICAL THEATRE",
+        "coursecode": "DRA305",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Tech Theatre",
+        "fees": "None",
+        "diplomacatagory": "The Arts, Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "A continuation of the work of technical theatre, with a focus on depth and breadth of knowledge. Students will take leadership roles in group work, and crew head responsibilities. Areas of study include scenic construction and design, lighting design, audio design, costume construction and design, and scenic rigging. Students are expected to work backstage during at least one production during each semester."
+    },
+    {
+        "name": "MUSICAL PERFORMANCE",
+        "coursecode": "DRA360",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Audition required",
+        "fees": "None",
+        "diplomacatagory": "The Arts, Occupational Education, Career & Technical Education",
+        "notes": "None",
+        "description": "In Musical Performance students will learn the combination of skills that this art form requires:  singing, dancing, and drama.  This class is designed for those accepted by audition to prepare for and present the school musical. The semester culminates with the full scale production of a musical and will be offered in the fall."
+    },
+    {
+        "name": "PLAY PERFORMANCE",
+        "coursecode": "DRA350",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Audition required",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "In Play Performance students will learn the combination of skills that are necessary to create and present a variety of stage productions that include monologues, one-acts, and stage plays.  This course is for actors involved in the presentation of various school play performances during the year.  This class will be offered in the spring."
+    },
+    {
+        "name": "CHOIR",
+        "coursecode": "MUV150A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "for robe cleaning",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Individuals in this choir will sing repertoire from Madrigals to Jazz. Personal responsibility, dedication to the ensemble, and the pursuit of excellence are emphasized. Singers are required to perform in all school concerts, festivals and clinics. Class time is spent working on vocal technique, music reading, and ensemble skills. This group is for those who wish to sing and have FUN while learning the basics of choral singing.  Grades are based upon rehearsal technique, progress of music skills, attendance, and participation."
+    },
+    {
+        "name": "JAZZ ENSEMBLE",
+        "coursecode": "MUJ100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Must be concurrently enrolled in the school\u2019s band, orchestra or choral large ensemble class",
+        "fees": "Varies by activities, includes uniform and potential travel",
+        "diplomacatagory": "The Arts",
+        "notes": "May run in Zero period and he Jazz Band director will assist students in organizing transportation to zero period Jazz Band",
+        "description": "Jazz Ensemble is a school experience for students concurrently enrolled in the school's traditional concert based ensembles. The purpose of this class is to explore and develop skills in this uniquely American art form, which includes all styles of jazz music and improvisation. The Jazz Ensemble performs at all school concerts, Northlake League jazz festivals and other festivals that involve evening and weekend performances. These performances are part of the student\u2019s grade and cannot be missed."
+    },
+    {
+        "name": "GUITAR",
+        "coursecode": "MUG110",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "$10",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This course is for all students, including those with no prior formal music training and may include such guitar styles as blues/rock, folk or classical. Beginning students receive group instruction on basic guitar skills. As students advance in guitar skills, they are assigned more advanced books or independent study.  Guitars are provided for in-class time, but are not assigned for taking off campus. It is preferred that students have their own guitars at home, so they may practice after school."
+    },
+    {
+        "name": "ADVANCED GUITAR",
+        "coursecode": "MUG155",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Guitar MUG110",
+        "fees": "$10",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This course is for students who have taken at least one semester of beginning guitar or can demonstrate a strong understanding of note reading and technique. Students will work individually on songs in either tab or note format and will also participate in weekly group songs assigned by the instructor. Songs may include such guitar styles as blues/rock, folk or classical. Guitars are provided for in-class time, but are not assigned for taking off campus. It is preferred that students have their own guitars at home, so they may practice after school."
+    },
+    {
+        "name": "PIANO LAB",
+        "coursecode": "MUP200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This class is for the student who wants to learn to play the piano. It will include keyboard skills as well as a theory component to enable students to understand the elements of reading music. \u00a0Grading is based upon daily participation, and playing and written tests."
+    },
+    {
+        "name": "CHAMBER ORCHESTRA",
+        "coursecode": "MUO150A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "By audition only",
+        "fees": "Varies by activities, includes uniform and potential travel",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Chamber Orchestra places emphasis on advancing performing skills and exploring a wide variety of musical literature, which may include full and string orchestra. The Chamber Orchestra performs at all school concerts, Northlake League orchestra festivals, Solo & Ensemble and other festivals that involve evening and weekend performances.  These performances  are part of the student\u2019s grade and cannot be missed."
+    },
+    {
+        "name": "STRING ORCHESTRA",
+        "coursecode": "MUO100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Experience on an orchestra string instrument",
+        "fees": "Varies by activities, includes uniform and potential travel",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "String Orchestra places emphasis on advancing performing skills and exploring a wide variety of musical literature, which may include full and string orchestra. The String Orchestra performs at all school concerts, Northlake League orchestra festivals, Solo & Ensemble and other festivals that involve evening and weekend performances.  These performances  are part of the student\u2019s grade and cannot be missed."
+    },
+    {
+        "name": "WIND ENSEMBLE",
+        "coursecode": "MUB300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "By audition only",
+        "fees": "Varies by activities, includes uniform and potential travel",
+        "diplomacatagory": "The Arts",
+        "notes": "This class has numerous required evening and weekend performances that are part of the grade for the class.",
+        "description": "Wind Ensemble places emphasis on advancing performing skills and exploring a wide variety of musical literature, including marching band, pep band, concert and chamber music. The Wind Ensemble performs at all school concerts, Northlake League band festivals, Solo & Ensemble, other festivals  as well as numerous sporting events and involve numerous (between 15 and 25) evening and weekend performances.  These performances are part of the student\u2019s grade and cannot be missed. There is also a requirement that the students attend Summer Band Camp sometime in August."
+    },
+    {
+        "name": "SYMPHONIC BAND",
+        "coursecode": "MUB100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Instrumental experience",
+        "fees": "uniform cleaning fee",
+        "diplomacatagory": "The Arts",
+        "notes": "This class has numerous required evening and weekend performances that are part of the grade for the class.",
+        "description": "Symphonic Band places emphasis on advancing performing skills and exploring a wide variety of musical literature, including marching band, pep band, concert and chamber music. The Symphonic Band performs at all school concerts, Northlake League band festivals, Solo & Ensemble, other festivals as well as numerous sporting events and involve numerous (between 15 and 25) evening and weekend performances.  These performances are part of the student\u2019s grade and cannot be missed. There is also a requirement that the students attend Summer Band Camp sometime in August."
+    },
+    {
+        "name": "HISTORY OF POPULAR MUSIC",
+        "coursecode": "MUS255",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "This course gives an overview of historical perspectives in the United States from the post-revolutionary war era through the 20th century  and relates the  information to the popular music of the era.  You will learn about the women\u2019s suffrage movement, civil rights, etc. and relate how music helped to inform and change our world!"
+    },
+    {
+        "name": "BIOLOGY",
+        "coursecode": "SCB100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Lab Science or 3rd Credit of Science",
+        "notes": "None",
+        "description": "Biology is the study of the living world and our relationship to it. This course is aligned to the NGSS (WSSLS) high school performance expectations for life science and also integrates sustainability principles. As a result, the major disciplinary themes are: metabolism, behavior, genetics, evolution, ecology and sustainability. Students will engage in both science and engineering practices as they explore the themes and relate them to the cross-cutting concepts of science."
+    },
+    {
+        "name": "AP BIOLOGY",
+        "coursecode": "SCB180A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Chemistry or Concurrent Enrollment in Chemistry",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Lab Science or 3rd Year of Science",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Advanced Placement (AP) Biology is a year-long college level course designed to prepare students to do well on the AP Biology exam in the spring. Students cultivate their understanding of biology through inquiry-based investigations and hands-on science laboratory work as they explore topics like evolution, energetics, information storage and transfer, and system interactions."
+    },
+    {
+        "name": "AP ENVIRONMENTAL SCIENCE",
+        "coursecode": "SCE200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Lab Credit or 3rd Credit of Science",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "This class will provide students with the opportunity to explore and investigate the interrelationships of the natural world and analyze environmental problems, both natural and human-made. You\u2019ll take part in laboratory investigations and field work. Explore a view of planet Earth as one system (with geologic features, atmosphere and climate) and the importance of biodiversity within those ecosystems. Examine how populations change over time, and the factors that affect population growth. Learn how humans use and consume natural resources (including renewable and nonrenewable sources of energy), and the ways in which we disrupt ecosystems, both positively and negatively. You\u2019ll come to understand the global impact of local and regional human activities and evaluate and propose solutions."
+    },
+    {
+        "name": "ZOOLOGY",
+        "coursecode": "SCZ100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of Biology or Biotechnology",
+        "fees": "None",
+        "diplomacatagory": "Biology, Lab Science, 3rd Credit of Science",
+        "notes": "None",
+        "description": "This course explores the natural history of animals, concentrating on behavioral, ecological, and physiological adaptations of the major groups of animals, with special attention to Pacific Northwest species. Content will include the natural history of the major groups of animals, taxonomy, survey of animal phyla, adaptations, the human use of and impact on animal resources, and extinction. Students will utilize observation skills, listening and reading comprehension, dissection, data analysis, classification, and identification of specimens. Students will also complete individual and group projects."
+    },
+    {
+        "name": "PHYSICS",
+        "coursecode": "SCP100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra I",
+        "fees": "None",
+        "diplomacatagory": "Lab Credit or 3rd Credit of Science",
+        "notes": "None",
+        "description": "This course is aligned to the NGSS (WSSLS) high school performance expectations for physical science. The major content of the course will center on exploring charge, magnetism, energy, force, gravitation, and waves. Students will engage in both science and engineering practices as they learn about the content and relate them to the cross-cutting concepts of science."
+    },
+    {
+        "name": "AP PHYSICS 1: ALGEBRA-BASED",
+        "coursecode": "SCP181A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra II/Trig  or Concurrent Enrollment in Algebra II/Trig",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Lab Science or 3rd Credit of Science",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Advanced Placement (AP) Physics 1 is the equivalent to a first-semester college course in algebra-based physics. This course is designed to prepare students for the AP Physics I exam in the spring."
+    },
+    {
+        "name": "AP PHYSICS 2: ALGEBRA-BASED",
+        "coursecode": "SCP182A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "AP Physics I or Physics",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Lab Science or 3rd Credit of Science",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Advanced Placement (AP) Physics 2 is the equivalent to a second-semester college course in algebra-based physics. This course prepares students for the AP Physics 2 exam for the spring."
+    },
+    {
+        "name": "ASTRONOMY",
+        "coursecode": "SCA100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Physical Science, Lab Science, 3rd Credit of Science",
+        "notes": "Some colleges/universities will not accept this course for admission purposes",
+        "description": "Ever wonder about the nighttime sky? The stars? The planets? The universe? If yes, this is the class for you! In this course, you will learn about the constellations, our solar system, stars, the interstellar medium, galaxies, and the universe. We\u2019ll also explore the history of astronomy and how astronomers learned so much about the objects in our sky. Astronomy is interdisciplinary \u2013 we will learn some physics and chemistry in order to understand how our universe has changed over time. You will need to bring some basic math skills like algebra, geometry and the ability to understand scientific notation, but you\u2019ll leave with a sense of our place in the universe."
+    },
+    {
+        "name": "FORENSICS",
+        "coursecode": "VFS204",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of Biology or Biotechnology",
+        "fees": "None",
+        "diplomacatagory": "Career & Technical Education, 3rd Credit of Science, Lab Science, Flex",
+        "notes": "None",
+        "description": "Introduces students to the basics of how crimes are solved using science. It is a real world application based class that gives students hands-on learning experiences in solving crimes. Students will learn concepts related to blood spatter, DNA fingerprinting, fingerprints, handwriting analysis, and human remains."
+    },
+    {
+        "name": "CHEMISTRY",
+        "coursecode": "SCC100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Algebra II/Trig or concurrent enrollment in Algebra II/Trig",
+        "fees": "None",
+        "diplomacatagory": "Lab Credit or 3rd Credit of Science",
+        "notes": "None",
+        "description": "Chemistry is the study of matter and the chemical reactions between substances. This course is aligned to the NGSS (WSSLS) high school performance expectations for physical science that also integrates climate change.  The major content of the course will center on the nature of matter and the changes it undergoes at the atomic level. Students will engage in both science and engineering practices as they learn about the content and relate them to the cross- cutting concepts of science."
+    },
+    {
+        "name": "AP CHEMISTRY",
+        "coursecode": "SCC160A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Chemistry",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Lab Credit or 3rd Credit of Science",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "Advance Placement (AP) Chemistry is a year-long, introductory college-level course designed to prepare students for the AP Chemistry exam in the spring.  Students will delve more deeply into the concepts covered in first-year chemistry. Students will cultivate their understanding of chemistry through inquiry- based investigations, as they explore content such as: atomic structure, intermolecular forces and bonding, chemical reactions, kinetics, thermodynamics, and equilibrium."
+    },
+    {
+        "name": "(UW BIOL 118&119) SURVEY OF PHYSIOLOGY",
+        "coursecode": "CHS316",
+        "length": "Semester",
+        "credit": "1.2",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Biology or Biotechnology and Chemistry",
+        "fees": "None",
+        "diplomacatagory": "Lab Science or 3rd Credit of Science",
+        "notes": "6 university credits from the University of Washington may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+        "description": "This course is equivalent to Biology 118&119 at the University of Washington and may be taken for UW credit as Biology 118&119 (6 credits). This course is intended to give students a thorough understanding of how the human body functions and is highly recommended for students interested in any type of medical career. Students learn about the body as they study a variety of real life diseases and phenomena. Students will engage in a wide variety of learning activities, including lab investigations, dissections, class presentations, biotechnology procedures, career explorations, and class discussions. This course is designed to be taken in sequence with (BIOL 100) INTRODUCTION BIOLOGY: ADDICTION AND THE BRAIN. Physiology can be taken alone, but priority for placement in the class will be given to students who also register for BIOL 100. This course will prepare students for events in HOSA and participation in the State Leadership conference in March."
+    },
+    {
+        "name": "SCIENCE MENTOR",
+        "coursecode": "SCI110",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Teacher Permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "None",
+        "description": "Science Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for this course."
+    },
+    {
+        "name": "WORLD HISTORY",
+        "coursecode": "SSW125A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "World History",
+        "notes": "None",
+        "description": "Students will explore and analyze world events in this survey course spanning 1450-to the present. Major units of study include: Global expansion, the Age of Revolutions, international conflicts, the emergence and development of new nations, and the economic, technological, political, social, and geographic causes of change. These topics will be explored through the use of textbooks, primary source documents, scholarly readings, speeches, short stories, and political cartoons. The goal of the World History course is to prepare students to participate in a pluralistic, democratic society through understanding multiple perspectives, respecting various cultures, and recognizing their role in a global economy."
+    },
+    {
+        "name": "AP WORLD HISTORY: MODERN",
+        "coursecode": "SSW205A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "World History",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "This is a college level yearlong course designed to develop a greater understanding of global history; the study of human interactions and their consequences throughout history. This class begins its study in 1200 CE and ends with an investigation of present-day global relations. This is a demanding course with a significant homework requirement."
+    },
+    {
+        "name": "UNITED STATES HISTORY",
+        "coursecode": "SSU300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "US History",
+        "notes": "None",
+        "description": "This graduation requirement focuses on the US Constitution and the relationship of historical events to the political, social and economic ideas that have shaped our country since Industrialization including Since Time Immemorial Native American curriculum from OSPI. Students will learn to assess historical sources and to evaluate historical events through lectures, readings, class discussion, multimedia resources and project learning."
+    },
+    {
+        "name": "AP UNITED STATES HISTORY",
+        "coursecode": "APH200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "US History",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "The AP Program in United States History is designed to provide students with analytical skills and factual knowledge necessary to deal critically with the problems and materials in United States history. This program prepares students for immediate and advanced college courses by making demands upon them equivalent to those in full-year introductory college courses. This accelerated survey course will cover topics from the Age of Discovery to the present. This is a demanding course with a significant homework requirement."
+    },
+    {
+        "name": "CIVICS",
+        "coursecode": "SSC445",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Civics",
+        "notes": "None",
+        "description": "Seniors are required to take a semester of civics either via this course or by taking AP Government. This course focuses on the study of political and economic issues at the local, state, tribal, and national level. Students will examine the Constitution, focusing on the structure of the government as well as the role of the individual within a democratic society."
+    },
+    {
+        "name": "CONTEMPORARY WORLD PROBLEMS",
+        "coursecode": "SSG445",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Contemporary World Problems",
+        "notes": "None",
+        "description": "Seniors are required to take a semester of contemporary world problems either via this course or by taking AP Government.  This course is a one semester course that will emphasize the study of current, cultural, economic, environmental, political, and religious issues around the world. Topics include:"
+    },
+    {
+        "name": "AP US GOVERNMENT & POLITICS",
+        "coursecode": "SSG422A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": ".5 Civics and .5 Contemporary World Problems",
+        "notes": "Students may take the corresponding AP  exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "This course provides both a study of broad, general concepts of the United States political system, as well as the analysis of specific case studies. Basic concepts include the Constitutional basis of the US Government, political ideals and behaviors, the political party system, institutions of the national government, public policy and civil rights/liberties. Emphasis is placed on critical thinking skills, essay writing and interpretation of original documents. This is a demanding course with a significant homework requirement."
+    },
+    {
+        "name": "AP AFRICAN AMERICAN STUDIES",
+        "coursecode": "APH250A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11,12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "AP African American Studies is an interdisciplinary course that examines the diversity of African American experiences through direct encounters with varied sources. Students explore key topics that extend from early African kingdoms to the ongoing challenges and achievements of the contemporary moment. Given the interdisciplinary character of African American Studies, students in the course will develop skills across multiple fields, with an emphasis on developing historical, literary, visual, and data analysis skills. This course foregrounds a study of the diversity of Black communities in the United States within the broader context of Africa and the African diaspora."
+    },
+    {
+        "name": "AP HUMAN GEOGRAPHY+ [AP HUMAN GEOGRAPHY]",
+        "coursecode": "SSG440 A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "This course introduces students to the systematic study of patterns and processes that have shaped human understanding, use, and alteration of the Earth\u2019s surface. Students learn to employ spatial concepts and landscape analysis to examine human socioeconomic organization and its environmental consequences. They also learn about the methods and tools geographers use in their research and applications. This is a demanding course with a significant homework requirement."
+    },
+    {
+        "name": "AP MACROECONOMICS",
+        "coursecode": "APS100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Intro to Economics recommended, but not required",
+        "fees": "None",
+        "diplomacatagory": "Flexible",
+        "notes": "None",
+        "description": "AP Macroeconomics is a college level, full year course designed to provide students with a thorough understanding of the economic principles that operate within the economic system as a whole. The course promotes the understanding of resource utilization both internally and externally, and an examination of the factors involved in economic decision-making. AP Macroeconomics will emphasize the study of national income, economic performance measures, economic growth and international economics. The aim of AP Macroeconomics is to provide the student with a learning experience equivalent to that obtained in a typical college introduction level economics course."
+    },
+    {
+        "name": "ETHNIC STUDIES",
+        "coursecode": "SSE200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "None",
+        "description": "Ethnic Studies examines cultural, economic, historical, political, and social aspects and experiences of ethnic groups, with a special emphasis on social justice through resistance, liberation, and healing. In this course, students center the cultures, histories, and experiences of historically minoritized groups as they critically analyze current issues influenced by systems of power and oppression. All students will cultivate a sense of belonging through humanizing learning experiences that affirm and validate their identities, intersectionalities, and communities, and honor that of the people around them, while also learning about the resilience and accomplishments of groups who have been silenced and excluded over time.  Ethnic Studies aids students in transforming their lives by promoting healing and/by disrupting systems of oppression throughout history, by uplifting the ideals of civic action and community partnerships in solidarity with others, and by providing students with the tools to utilize their voice and agency within their communities and as global citizens."
+    },
+    {
+        "name": "ETHNIC STUDIES IN ACTION",
+        "coursecode": "SSE201",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Ethnic Studies or US History/AP US History (concurrent or previous)",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "None",
+        "description": "Students in this course should have taken Ethnic Studies or US History (or concurrently enrolled in this). This one semester class is an opportunity to deepen our understanding of the Ethnic Studies themes and apply them to current issues.  Students will expand their knowledge of Ethnic Studies and key concepts. The course promotes student choice in the learning process. Units will include topics such as the criminal justice system, economic inequality, the US immigration system, and reflections on the question of what belonging looks like."
+    },
+    {
+        "name": "INTRO TO ECONOMICS",
+        "coursecode": "SSE405",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "None",
+        "description": "This course is designed to introduce students to basic concepts in financial literacy and macroeconomics. Students will analyze features of our economic system important to determining their role in the workforce, setting their goals for savings and investments, increasing their understanding of fiscal and monetary policy, and weighing the costs and benefits of their economic decisions. Students will also discuss varied economic interactions between individuals, households, business, government, and societies."
+    },
+    {
+        "name": "INTRO TO LAW AND THE JUSTICE SYSTEM",
+        "coursecode": "LAW200",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible",
+        "notes": "None",
+        "description": "This semester course is geared toward teaching secondary school students \u2018practical law\u2019, and to raise students' awareness to real issues, as well as solutions, within our community. The course centers around three (3) major units: Constitutional Law, Criminal Law and Trial Law. In Con. Law, students are provided the opportunity to engage in conversation with our school administration about the balance between student\u2019s rights and community responsibility. The Criminal Law unit invites students to answer Was justice served? through the lens of a criminal case study. The final unit, Trial Law, is capstoned with an in-person mock trial experience where students play the role of attorneys and witnesses downtown Bothell in front of the local municipal judge presiding over the case. This course also interacts and hosts many law enforcement and legal professionals from within our community."
+    },
+    {
+        "name": "LAW AND SOCIETY",
+        "coursecode": "LAW210",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Intro to Law and the Justice System recommended, but not required",
+        "fees": "None",
+        "diplomacatagory": "Flexible",
+        "notes": "None",
+        "description": "This semester course is focused on expanding secondary school students' knowledge of \u2018real life law\u2019 and asking them to apply their knowledge through a wider and deeper understanding than that in Intro to Law. This course centers around three (4) units of varying length: Civil Law, Criminal Psychology, International Judicial Systems and Applying the Law. In Civil Law, student groups answer real questions to life\u2019s many legal challenges. The Criminal Psychology unit is focused on how mental health interacts with our laws and includes a presentation from a criminal psychologist. Our Int. Judicial Systems unit invites students to explore various legal systems and lastly, in our final unit Applying the Law, the class works in partnership with the NCHS forensics class to create the ultimate law challenge. This course hosts many law enforcement and legal professionals from within our community."
+    },
+    {
+        "name": "ART 1",
+        "coursecode": "ADD101",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "$20",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Discover Your Inner Artist! No experience? No problem! Dive into the world of art and get hands-on with watercolor, paint, ink, charcoal, colored pencils, acrylics, and oil pastels. You'll learn the secrets of perspective, composition, textures, portraits and color while creating individualized projects that are both fun and skill-building. Whether you're a beginner or already have some art experience, this class helps you level up your drawing and design skills, setting you up for success in any future art class. It's a high-energy, creative experience that brings out the best in every student \u2013 and the results will amaze you!"
+    },
+    {
+        "name": "ART 2",
+        "coursecode": "AIA101",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Art 1 or art teacher approval",
+        "fees": "$25",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Level Up Your Creativity! Ready to take your art skills to the next level? This class is for students who want to build on what they know and take the next step on their artistic journey. You\u2019ll explore a variety of mediums \u2013 from drawing and painting to printmaking, 3D design and digital work! Projects are designed to push your creativity, help you experiment, and support you as you develop your personal style. Whether you're perfecting your drawing skills or trying new techniques, this class will challenge you to think outside the box and have fun while doing it!"
+    },
+    {
+        "name": "OR",
+        "coursecode": "AAA151A/B",
+        "length": "Yearlong",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Art 2 or art teacher approval",
+        "fees": "$25 semester/ $40 full year (see Notes below)",
+        "diplomacatagory": "The Arts",
+        "notes": "For semester long course, please submit AAA151A (semester 1) OR AAA151B (semester 2). For yearlong course, please submit AAA151A AND AAA151B",
+        "description": "Bring Your Vision to Life! In this class you'll explore exciting projects through your personal style. Enjoy individualized projects that respond to your requests, strengths and needs. Starting with a foundation in composition, value blocking and color blocking, you'll develop advanced techniques that help you express yourself like never before. Projects from this class will help build a portfolio perfect for your next artistic step whether that is AP art, college, career or internships. Get ready to take your art to the next level and make your mark!"
+    },
+    {
+        "name": "CERAMICS 1",
+        "coursecode": "ACE103",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "$35",
+        "diplomacatagory": "The Arts",
+        "notes": "This course is NOT available to 9th graders due to capacity limitations",
+        "description": "Ready to dive into the world of clay? In this class, you\u2019ll learn how to shape and mold your imagination into real, 3D pieces using hand-building techniques. Create everything from bowls and cups to fun trinkets, funky boxes, and more! Once you've crafted your masterpieces, you'll explore glazing and firing to make them shine. It's the perfect class for unleashing your creativity and getting your hands dirty while creating unique art that you can display and use!"
+    },
+    {
+        "name": "ADVANCED CERAMICS",
+        "coursecode": "ACE150",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Ceramics",
+        "fees": "See fee schedule on page 14-15",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Continue your journey in clay with Advanced Ceramics. Using knowledge of techniques learned in Ceramics, students will work on specific projects that may include a tile mirror, teapot, more sculptural work, introduction to working with plaster molds to create pieces and another turn at the wheel. This class is a little more individual, however, so the student also has more input to projects of their choice."
+    },
+    {
+        "name": "AP DRAWING",
+        "coursecode": "APA151A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Advanced Art Studio or teacher approval of portfolio",
+        "fees": "$40",
+        "diplomacatagory": "The Arts, Flexible credits",
+        "notes": "Enrolled students will be given the opportunity to submit the AP Studio Art portfolio in May for college credit.",
+        "description": "Ready to take your art to the college level? AP Studio Art is your chance to push your creative limits and create a 15 piece portfolio that centers around your personalized artistic investigation. In this advanced course, you\u2019ll work on a Drawing Portfolio that covers a wide range of techniques and media \u2013 from traditional drawing and painting to printmaking and mixed media. You\u2019ll experiment with mark-making, lighting, and figure/ground relationships. If you\u2019re ready to challenge yourself to create unique, high-quality artwork that shares your voice with the world, this class is your ultimate creative playground!"
+    },
+    {
+        "name": "AP ART 2D",
+        "coursecode": "APA156A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Advanced Art Studio or teacher approval of portfolio",
+        "fees": "$40",
+        "diplomacatagory": "The Arts, Flexible credits",
+        "notes": "Enrolled students will be given the opportunity to submit the AP Studio Art portfolio in May for college credit.",
+        "description": "Ready to take your art to the college level? AP Studio Art is your chance to push your creative limits and create a 15 piece portfolio that centers around your personalized artistic investigation. In this advanced course, you\u2019ll work on a 2D Portfolio that covers a wide range of techniques and media \u2013 from painting and graphic design to digital art, printmaking, collage and photography. You\u2019ll experiment with non-traditional materials, layering, composition, movement, balance, emphasis, connection, juxtaposition and hierarchy. If you\u2019re ready to challenge yourself to create unique, high-quality artwork that shares your voice with the world, this class is your ultimate creative playground!"
+    },
+    {
+        "name": "GRAPHIC DESIGN",
+        "coursecode": "AGD100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Drawing and Design",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Learn modern graphic design techniques, including basic Adobe Photoshop, Illustrator and InDesign and Bridge programs. Computerized type, layout and production projects include letterform, editorial imaging (such as anti-racism material), travel posters, fashion design, food labels, marketing materials, magazine spreads, text portraits, etc."
+    },
+    {
+        "name": "ADVANCED GRAPHIC DESIGN",
+        "coursecode": "AGD150",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Graphic Design",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "None",
+        "description": "Advanced topics/projects in the field of graphic design, especially for those seeking apprenticeships in the field. Knowledge of Photoshop, Illustrator and InDesign highly recommended. Projects encompass the spectrum of graphic design and some are extended length."
+    },
+    {
+        "name": "DIGITAL PHOTOGRAPHY",
+        "coursecode": "ADP110",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "It is beneficial if students have a manually adjustable digital camera of their own to use",
+        "description": "Learn the art of digital photography. This class teaches you basic techniques for making artistic images with both an adjustable digital camera and Photoshop."
+    },
+    {
+        "name": "ADVANCED (DIGITAL) PHOTOGRAPHY",
+        "coursecode": "APH150",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Digital Photography",
+        "fees": "None",
+        "diplomacatagory": "The Arts",
+        "notes": "It is beneficial if students have a manually adjustable digital camera of their own to use",
+        "description": "For students who are enthusiastic about photography and/or have an interest in a photographic career. Basic knowledge of Photoshop is very helpful. Projects focus on learning new techniques and improving technical skills, especially  in lighting."
+    },
+    {
+        "name": "ARCHITECTURAL DESIGN",
+        "coursecode": "TEA220",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Art 1",
+        "fees": "None",
+        "diplomacatagory": "The Arts, Career & Technical Education, Occupational Education",
+        "notes": "None",
+        "description": "Are you curious about the ways that buildings impact the environment and the way we live our lives? Are you interested in the built environment? Do you like finding personalized, innovative solutions to challenges? In this project-based course, you will work through several design challenges while learning about neighborhoods, topography, circulation and building plans.   Working through the design process, you will have experience with research and analysis, technical drawing/sketching, and 3D modeling skills. Students work individually and in teams while applying math, science, and art standards to many hands-on projects."
+    },
+    {
+        "name": "ART MENTOR",
+        "coursecode": "ART112",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Department Head Permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "None",
+        "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities. Mentors will be trained on instructional methods, data collection, and social interactions through \"job shadowing\" and \"on the job\" observations. Pass/Fail credit is given for the course."
+    },
+    {
+        "name": "SPANISH 100",
+        "coursecode": "WLS100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "consumable workbook (see page 14-15)",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "A beginning course to introduce the basics of the language as well as the culture through simulated real life situations, music, games, storytelling and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing."
+    },
+    {
+        "name": "ASL 100 (AMERICAN SIGN LANGUAGE)",
+        "coursecode": "WLX100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "students may earn up to 5 college credits with B or better grade",
+        "description": "This college level course, ASL 100, is the complex and natural existing language used by the Deaf. \u00a0ASL 100 will introduce students to this visual / gestural language and the Deaf community. \u00a0In this class students will learn vocabulary and the grammar of ASL through natural everyday conversation, situations, and activities. \u00a0Classrooms operate in large and small group settings and often in full immersion. \u00a0Students must be able to maintain eye contact and be visually focused. \u00a0Also having the ability to work regularly with recording devices (by uploading and downloading media) for portfolio purposes. \u00a0College credit is granted to those who earn a grade of B or above."
+    },
+    {
+        "name": "SPANISH 200",
+        "coursecode": "WLS200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12 (9th grade OK in Spanish 200 and French 200)"
+        ],
+        "prerequisite": "Successful completion of the 1st year course of the selected language",
+        "fees": "consumable workbook (see pages 14-15)",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "In these second year courses students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading and writing skills to an intermediate level. Skills emphasized will are listening, reading and writing as well as oral communication."
+    },
+    {
+        "name": "ASL 200 (AMERICAN SIGN LANGUAGE)",
+        "coursecode": "WLX200A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of ASL 100",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "students may earn up to 5 college credits with B or better grade",
+        "description": "ASL 200 expands on vocabulary, demands complex grammatical understanding, functional application, Deaf history, culture and community. Second year will focus more on classifiers, use of spatial referencing, role-shifting, signer\u2019s point of view, verb inflections and the Greater Deaf community (agencies serving the Deaf/Hard-of-Hearing). \u00a0Using dialogues and narratives while continuing their virtual portfolios students will grow in their fluency, prosody, and confidence. \u00a0College credit is granted to those who earn a grade of B or above."
+    },
+    {
+        "name": "(SPAN & 123) SPANISH III",
+        "coursecode": "CHS838A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of the 2nd year course of the selected language",
+        "fees": "consumable workbook (see pages 14-15)",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "In this third year course students will be engaged in a variety of activities to develop skills in every aspect of the language. Short stories, skits and role-playing, poems, magazine and newspaper articles, audio and video sources are used to encourage  learning.  The  class  is  conducted  in  an  immersion  environment  and  the  students  are  encouraged  to  employ  the  language  as much as possible. The goal for year-end will be that students will have developed a basic proficiency in the language.  NOTE:  if you choose the College in the High School (CHS) option, you will need to pay tuition to the local college for college credits."
+    },
+    {
+        "name": "ASL 300 (AMERICAN SIGN LANGUAGE)",
+        "coursecode": "WLX300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of the ASL 200",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "students may earn up to 5 college credits with B or better grade",
+        "description": "ASL 300 continues vocabulary and grammatical structure of the language with storytelling, narratives, and dialogues. \u00a0While continuing an exposure to Deaf history, culture, and community, students will also explore Deaf folklore, current events and Deaf-related topics, Deaf-Blind community, mock interpreting simulations, poetry, iconic art, and careers with ASL. College credit is granted to those who earn a grade of \u201cB or above.\u201d"
+    },
+    {
+        "name": "(SPAN & 221) SPANISH IV",
+        "coursecode": "CHS839A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of the 3rd-year course of the selected language",
+        "fees": "consumable workbook (see pages 14-15)",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "In these fourth year courses we will strive towards proficiency in all communication skills. The course is conducted largely in an immersion environment. Students will have an opportunity to improve and practice their acquired skills. An extensive review of grammar enables students to speak at an advanced level. The goal for year-end will be that students will have a working proficiency in the language.  These courses all entail the exclusive use of the studied language in the classroom with an emphasis on communication skills, interactive presentation of grammar and daily practice outside of class."
+    },
+    {
+        "name": "AP SPANISH LANGUAGE AND CULTURE",
+        "coursecode": "WLS510A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11,12"
+        ],
+        "prerequisite": "recommended completion of the 4th year course of Spanish",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "The AP Spanish Language and Culture course emphasizes communication (understanding and being understood by others) by applying interpersonal, interpretive, and presentational skills in real-life situations. This includes vocabulary usage, language control, communication strategies, and cultural awareness. The AP Spanish Language and Culture course strives not to overemphasize grammatical accuracy at the expense of communication. To best facilitate the study of language and culture, the course is taught almost exclusively in Spanish. The AP Spanish Language and Culture course engages students in an exploration of culture in both contemporary and historical contexts. The course develops students\u2019 awareness and appreciation of cultural products (e.g., tools, books, music , laws, conventions, institutions); practices (patterns of social interactions within a culture); and perspectives (values, attitudes, and assumptions)."
+    },
+    {
+        "name": "ASL 400 (AMERICAN SIGN LANGUAGE)",
+        "coursecode": "WLX425A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Successful completion of the ASL 300",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "students may earn up to 5 college credits with B or better grade",
+        "description": "ASL 400 continues the exploration of the vocabulary and grammatical structure of the language with storytelling, narratives, and dialogues. \u00a0While continuing an exposure to Deaf history, culture, and community, students will also explore Deaf folklore, current events and Deaf-related topics, Deaf-Blind community, interpreting simulations, poetry, iconic art, and careers with ASL."
+    },
+    {
+        "name": "WORLD LANGUAGE MENTOR",
+        "coursecode": "WLM100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "teacher permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities. Mentors will be trained on instructional methods, data collection, and social interactions through \"job shadowing\" and \"on the job\" observations. Pass/Fail credit is given for the course."
+    },
+    {
+        "name": "COLLEGE READINESS THROUGH AVID 9",
+        "coursecode": "AVD100A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "9"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credit",
+        "notes": "None",
+        "description": "The College Readiness Through AVID 9 course is designed to prepare students for the challenges they will face in a rigorous course of study at the high school level and beyond. We will focus on the following skills: time management, study, note taking, and leadership. Many of our activities will be rooted in the WICOR strategies (Writing, Inquiry, Collaboration, Organization, and Reading) as the skills are the backbone of all classrooms. Furthermore, students will receive tutorial time in order to gain a greater understanding of difficult subject matter from their classes."
+    },
+    {
+        "name": "COLLEGE READINESS THROUGH AVID 10",
+        "coursecode": "AVD110A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credit",
+        "notes": "None",
+        "description": "The College Readiness Through AVID 10 course is designed to prepare students for the challenges they will face in rigorous course of study at the high school level and beyond. The course will focus on the following skills: Time Management, Organization, Cornell Note taking, and Leadership. All of our activities will be rooted in the WICOR strategies (Writing, Inquiry, Collaboration, Organization, and Reading) as these skills are the backbone of all AVID classrooms. Furthermore, students will receive tutorial time in order to gain a greater understanding of difficult subject matter from their classes."
+    },
+    {
+        "name": "COLLEGE READINESS THROUGH AVID 11",
+        "coursecode": "AVD300A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "The College Readiness Through AVID 11 course is designed to prepare students for the challenges they will face in a rigorous course of study at the high school level and beyond. The course will focus on the following skills: Time Management, Organization, Cornell Note taking, and Leadership. All of our activities will be rooted in the WICOR strategies (Writing, Inquiry, Collaboration, Organization, and Reading) as these skills are the backbone of all AVID classrooms. Furthermore, students will receive tutorial time in order to gain a greater understanding of difficult subject matter from their classes."
+    },
+    {
+        "name": "COLLEGE READINESS THROUGH AVID 12",
+        "coursecode": "AVD400A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "The College Readiness Through AVID 12 course is designed to prepare students for the challenges they will face in rigorous course of study at the high school level and beyond. The course will focus on the following skills: Time Management, Organization, Cornell Note taking, and Leadership. All of our activities will be rooted in the WICOR strategies (Writing, Inquiry, Collaboration, Organization, and Reading) as these skills are the backbone of all AVID classrooms. Furthermore, students will receive tutorial time in order to gain a greater understanding of difficult subject matter from their classes."
+    },
+    {
+        "name": "AP SEMINAR",
+        "coursecode": "APS110A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "10",
+            "11"
+        ],
+        "prerequisite": "None",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "AP Capstone\u2122 is an innovative diploma program from the College Board that equips students with the independent research, collaborative teamwork, and communication skills that are increasingly valued by colleges. AP Capstone is built on the foundation of two AP courses \u2014 AP Seminar and AP Research \u2014 and is designed to complement and enhance the in-depth, discipline-specific study experienced in other AP courses. In AP Seminar, students investigate real-world issues from multiple perspectives, gathering and analyzing information from various sources in order to develop credible and valid evidence-based arguments. This course is the first of a set of two classes for students who wish to pursue an AP Capstone diploma and involves much writing."
+    },
+    {
+        "name": "AP RESEARCH",
+        "coursecode": "APR110A/B",
+        "length": "FullYear",
+        "credit": "1.0",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "AP Seminar",
+        "fees": "Optional for students choosing to take the AP exam in the Spring.  Financial aid available, please see your counselor.",
+        "diplomacatagory": "Flexible Credit",
+        "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+        "description": "AP Capstone is an innovative diploma program from the College Board that equips students with the independent research, collaborative teamwork, and communication skills that are increasingly valued by colleges. AP Capstone is built on the foundation of two AP courses --- AP Seminar and AP Research --- and is designed to complement and enhance the in-depth, discipline-specific study experienced in other AP Courses. In AP Research, students conduct original research into a topic of their choice by conducting a review of the literature, identifying a gap in the current research, designing a methodology approved by an IRB [Institutional Review Board], conducting the study, developing their analysis and conclusions, and then presenting their findings. AP Research scores are determined by the student\u2019s achievement on their written academic research paper and a formal presentation with oral defense before a panel of judges.  This is a demanding course with a significant homework requirement and involves much writing."
+    },
+    {
+        "name": "AVID MENTOR",
+        "coursecode": "AVD115",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "teacher permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "This course is available either semester. AVID Peer Tutors work with a variety of students with a wide range of abilities.  AVID Peer Tutors will be trained on AVID tutorial methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for this course."
+    },
+    {
+        "name": "LEADERSHIP",
+        "coursecode": "YYN210",
+        "length": "Semester",
+        "credit": ".5",
+        "grade": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "prerequisite": "None",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "With ASB Advisor approval, you can take Adv. ASB after taking this course.",
+        "description": "Leadership is primarily an experiential course that explores the concept and value of servant leadership. Students will learn the importance of communication, character development, personal growth, active listening, goal setting, and building strong relationships and teams through positive influence. Students will be challenged to examine their relationships with others while assessing their personal character strengths and weaknesses. They will plan and implement ways to improve their personal character while improving their relationships with others. A variety of initiatives will be used to facilitate the learning of skills and, along with various media, reinforce those skills throughout the year."
+    },
+    {
+        "name": "OFFICE ASSISTANTS",
+        "coursecode": "YMO100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Staff permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "Students  will  help  with  varied  clerical  tasks  and  other  skills  pertinent  to  the  job.  Student  assistant  positions  with  teachers and office staff require conscientious work habits and good attendance.   Students will receive a Pass/Fail grade."
+    },
+    {
+        "name": "TEACHER ASSISTANTS",
+        "coursecode": "YTA100",
+        "length": "Semester",
+        "credit": "0.5",
+        "grade": [
+            "11",
+            "12"
+        ],
+        "prerequisite": "Staff Permission",
+        "fees": "None",
+        "diplomacatagory": "Flexible credits",
+        "notes": "None",
+        "description": "Students  will  help  with  varied  clerical  tasks  and  other  skills  pertinent  to  the  job.  Student  assistant  positions  with  teachers and office staff require conscientious work habits and good attendance.   Students will receive a Pass/Fail grade."
+    }
+]
